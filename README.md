@@ -34,13 +34,6 @@ b. Moda
 c. Promedio
 d. Mediana.
 
-6. Calculadora completa.
-a. Operaciones Aritméticas básicas.
-b. Operaciones geométricas.
-c. Operaciones matriciales.
-d. Operaciones algebraicas y vectores.
-e. Operaciones estadísticas.
-
 Realizado por: Eduardo Vázquez Chávez, Sergio Daniel Pineda Uribe, Dimas Coello Álvaro
 
 Profesor de la materia: Mario Andrés de los Santos Hernández @MarSH-Up.
