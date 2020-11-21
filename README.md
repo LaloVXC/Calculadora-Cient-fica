@@ -1,5 +1,6 @@
 
 INTRODUCCIÓN
+
 En la programación orientada a objetos se crean objetos los cuales manipulan los datos que el usuario inserta para así obtener los datos de salida deseados, los objetos poseen propiedades y métodos para así realizar las tareas requeridas, teniendo conceptos que ayudan a estructurar un mejor código con la ayuda de herencia, polimorfismo, abstracción y encapsulación. A través de estos conceptos sobre la programación orientada a objetos, punteros, funciones, estructuras, arreglos etc. se nos pidió realizar una “calculadora científica”, dicha calculadora puede hacer operaciones aritméticas básicas, operaciones geométricas, operaciones matriciales, operaciones algebraicas y vectoriales y operaciones de estadística de esta forma demostrar nuestros conocimientos adquiridos durante la materia. 
 
 
@@ -34,7 +35,7 @@ b. Moda
 c. Promedio
 d. Mediana.
 
-Realizado por: Eduardo Vázquez Chávez, Sergio Daniel Pineda Uribe, Dimas Coello Álvaro
+Realizado por loslaumnos: Eduardo Vázquez Chávez, Sergio Daniel Pineda Uribe, Dimas Coello Álvaro
 
-Profesor de la materia: Mario Andrés de los Santos Hernández @MarSH-Up.
+Profesor: Mario Andrés de los Santos Hernández @MarSH-Up.
 
